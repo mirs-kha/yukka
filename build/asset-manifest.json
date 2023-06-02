@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://mirs-kha.github.io/yukka/build/static/css/main.ced97c70.css",
+    "main.js": "https://mirs-kha.github.io/yukka/build/static/js/main.c74aa6bf.js",
+    "static/media/bg-yuka.png": "https://mirs-kha.github.io/yukka/build/static/media/bg-yuka.8a26d82146b35a48b5b2.png",
+    "static/media/logo-yuka.png": "https://mirs-kha.github.io/yukka/build/static/media/logo-yuka.92816de1e6f852dca15e.png",
+    "index.html": "https://mirs-kha.github.io/yukka/build/index.html",
+    "main.ced97c70.css.map": "https://mirs-kha.github.io/yukka/build/static/css/main.ced97c70.css.map",
+    "main.c74aa6bf.js.map": "https://mirs-kha.github.io/yukka/build/static/js/main.c74aa6bf.js.map"
+  },
+  "entrypoints": [
+    "https://mirs-kha.github.io/yukka/build/static/css/main.ced97c70.css",
+    "https://mirs-kha.github.io/yukka/build/static/js/main.c74aa6bf.js"
+  ]
+}
