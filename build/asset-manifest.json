@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ced97c70.css",
+    "main.js": "/static/js/main.c74aa6bf.js",
+    "static/media/bg-yuka.png": "/static/media/bg-yuka.8a26d82146b35a48b5b2.png",
+    "static/media/logo-yuka.png": "/static/media/logo-yuka.92816de1e6f852dca15e.png",
+    "index.html": "/index.html",
+    "main.ced97c70.css.map": "/static/css/main.ced97c70.css.map",
+    "main.c74aa6bf.js.map": "/static/js/main.c74aa6bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced97c70.css",
+    "static/js/main.c74aa6bf.js"
+  ]
+}
